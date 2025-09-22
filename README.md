@@ -35,7 +35,7 @@ Deployment: Vercel 🌐
 🚀 Getting Started
 1. Clone the repository
 
-git clone https://github.com/gagandeepsingh76/Portfolio.git
+git clone https://github.com/Kush-debug/Portfolio.git
 
 cd Portfolio
 
@@ -54,4 +54,4 @@ npm run build
 
 🌐 Live Demo
 
-👉 Portfolio Website:https://portfolio-seven-self-12.vercel.app/
+👉 Portfolio Website:https://portfolio-kr3h.vercel.app/
